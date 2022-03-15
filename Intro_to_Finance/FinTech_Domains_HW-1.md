@@ -1,4 +1,4 @@
-![alt text (Image containing the three major FinTech Waves)](../R-Inclass/Three%20Major%20FinTech%20Waves.png)
+![alt text (Image containing the three major FinTech Waves)](../Intro_to_Finance/Three%20Major%20FinTech%20Waves.png)
 
 
 # ***The FinTech Domains:*** #
@@ -50,28 +50,28 @@
 >
 > # First Age of Fintech: Competition #
 > - In 1858 a French missionary, Auguste Chapdelaine, was executed in China by lingchi. Lingchi was known as death by a thousand cuts. And the first age of FinTech is analogous. New FinTech companies, armed with VC *(Venture Capital)* cash and emboldened by the socio-political backlash against the big banks, launched services in direct competition to traditional lenders.
->Rather than going for complex, highly regulated areas of financial services, FinTech start-ups targeted low-entry, underserved segments that they could deliver at a better price with better technology. The major focus areas were payments, lending and wealth management.
+>Rather than going for complex, highly regulated areas of financial services, FinTech start-ups targeted low-entry, undeserved segments that they could deliver at a better price with better technology. The major focus areas were payments, lending and wealth management.
 >The idea was for 1,000s of different FinTechs to each take a small slice of the more profitable, easy to disrupt part of banking, instead of trying to build a major new competitor.
 >This concept of “Death by a thousand cuts” was played out through the media with FinTechs joining forces to launch crusades against banks, lobby government for more support, and set-up industry bodies to coordinate their approach.
 > # Second Age of Fintech: Collaboration #
-> - While the Lingchi approach was successful for some, in the early 2010s the majority of FinTechs were coming around to the realisation that competition wasn’t best for their business.
+> - While the Lingchi approach was successful for some, in the early 2010s the majority of FinTechs were coming around to the realization that competition wasn’t best for their business.
 >Fundamentally, FinTech’s were struggling to scale and acquire customers. This is common for nascent industries. However, the focus of early start-ups on payments, loans etc. exacerbated this problem.
 >Most financial services are based on selling a low-margin product to many. While FinTech’s struggled to scale they lost money. And for every FinTech success there is 50 others that simply didn’t scale or have the right business model and failed.
 >While FinTechs have the technology, it was their former arch enemies, the banks, that have the scale and distribution they needed. Conversely, banks needed the technology from FinTechs to plug the gaps in their offerings.
 >Suddenly FinTechs went from competition to collaboration.  The image below shows all the ways that banks and FinTech’s started working together:
 >
->![alt text (image containing how FinTechs work together)](../R-Inclass/FinTechs%20working%20together.png)
+>>>![alt text (image containing how FinTechs work together)](../Intro_to_Finance/FinTechs%20working%20together.png)
 >
-> Open Banking and the birth of the bank marketplace is the perfect distillation of this theme. Banks are creating marketplaces for FinTech’s to provide services (Starling Bank’s Marketplace is an excellent example of this) to consumers. Banks continue to own the customer and get a cut, FinTech’s get an enormous addressable market and instant scale.
-> # Third Age of Fintech: Coopetition #
-> - If it was competition before, and collaboration now, its coopetition next.
+> - Open Banking and the birth of the bank marketplace is the perfect distillation of this theme. Banks are creating marketplaces for FinTech’s to provide services (Starling Bank’s Marketplace is an excellent example of this) to consumers. Banks continue to own the customer and get a cut, FinTech’s get an enormous addressable market and instant scale.
+> # Third Age of Fintech: Competition #
+> - If it was competition before, and collaboration now, its competition next.
 >Banks and FinTechs are facing headwinds from both the West and the East which could decimate their business.
 >In the West we have the Silicon Valley internet giants – Google, Facebook, Amazon etc. The currency of these businesses is data – to sell us more stuff, directly or via advertisers. One of the most valuable forms of data is bank data, as it shows what a person is actually spending their money on.
 >Google has launched Google Pay, Facebook has enabled money transfer via Messenger, and Amazon is rumored to be launching a credit card.
 >To date they have dabbled, but signs are that their interest in banking is growing.
->My view is that none of the tech giants wants to be a bank – the regulation alone is too much of a pain – but they are keen to disintermediate banks with better basic services, probably tied intimately to their existing offerings (4% off all Amazon purchases vs. 0.5% interest rate?), and gather data.
+>My view is that none of the tech giants wants to be a bank – the regulation alone is too much of a pain – but they are keen to disintermediation banks with better basic services, probably tied intimately to their existing offerings (4% off all Amazon purchases vs. 0.5% interest rate?), and gather data.
 >In the East, the Chinese giants Ant Financial (the world’s biggest FinTech at $150bn valuation) and Tencent are marching West.
->These organisations don’t regard themselves as banks, and in some cases are actively shifting away from finance. Ironically, this actually makes them more dangerous.
+>These organizations don’t regard themselves as banks, and in some cases are actively shifting away from finance. Ironically, this actually makes them more dangerous.
 >
 >Rather than offer financial services, Ant Financial for example, provides:
 >- Retailing
@@ -85,9 +85,9 @@
 >The application becomes a one-stop-shop for anything you could need. It’s the remote control for your digital lifestyle.
 >In this approach, banking stops becoming a separate activity and entity, it simply becomes part of and an enabler for, your digital lifestyle. It’s invisible.
 >All of a sudden FinTechs and banks aren’t up against other FinTechs and banks, but a company that >controls an entire ecosystem and digital lifestyle. That’s some serious stickiness.
->As the Silcon Valley players emerge from the West, and the Chinese players emerge from the East, >FinTech’s and Banks need to work together to compete with the common enemy.
+>As the Silicon Valley players emerge from the West, and the Chinese players emerge from the East, >FinTech’s and Banks need to work together to compete with the common enemy.
 >The Third Age of FinTech has begun. The question is, who will win?
-![alt text (Image containg a visualisation of FinTech in the palm of your hand *through phone*)](../R-Inclass/CCgroup%20FinTech%20Growth%20blog-1.jpg)
+![alt text (Image containing a visualization of FinTech in the palm of your hand *through phone*)](../Intro_to_Finance/CCgroup%20FinTech%20Growth%20blog-1.jpg)
 
 >  *Written by Daniel Lowther*
 >
@@ -103,22 +103,9 @@
 
 <details>
 <summary>RutGers FinTech BootCamp DreamTeam ContriButors</summary>
-1.Davit Cuedari
-2.Wadeeha Jackson
-3.Emerson Wen
-4.Andrew Ferndandez
+
+>>>> - 1.Davit Cuedari       100%
+>>>> - 2.Wadeeha Jackson       0%
+>>>> - 3.Emerson Wen           0%
+>>>> - 4.Andrew Ferndandez     0%
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
