@@ -1,5 +1,5 @@
 # 1.
-x = 5
+x = 8
 y = 10
 if 2 * x > 10:
     print("Question 1 works!")
@@ -7,7 +7,7 @@ else:
     print("Oooo needs some work")
 
 # 2.
-x = 5
+x =  1
 y = 10
 if len("Dog") < x:
     print("Question 2 works!")
