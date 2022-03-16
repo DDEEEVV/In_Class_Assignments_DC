@@ -10,16 +10,24 @@ Pseudocode:
 # Percent Increase = Increase / Original x 100
 
 # Create integer variable for original_price
-
+original_price = 290.31
 
 # Create integer variable for current_price
-
+current_price = 352.28
 
 # Create float for threshold_to_buy
+increase = current_price - original_price
+percent_increase = increase / original_price * 100
 
+if percent_increase < 20:
+    print("sell")
 
 # Create float for threshold_to_sell
+increase = current_price - original_price
+percent_increase = increase / original_price * 100
 
+if percent_increase > 20:
+    print("buy")
 
 # Create float for portfolio balance
 
@@ -40,10 +48,10 @@ recommendation = "buy"
 print(f"Netflix's original stock price was ${original_price}")
 
 # Print current_price
-
+print(f"Netflix's current stock price was ${current_price}")
 
 # Print percent increase
-
+print(f"Netflix's percentage increse is %{round(percent_increase,2)}")
 
 # Determine if stock should be bought or sold
 

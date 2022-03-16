@@ -22,5 +22,5 @@ print("n")
 # Print excitement to screen
 print("\nWhat does that spell?!")
 print(cheer + "!\nWoohoo! Go " + cheer + "!")
-print(cheer_symbol * 3)
-print(cheer_symbol_2)
+print(cheer_symbol * 7)
+print(cheer_symbol_2 * 2)
